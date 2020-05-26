@@ -19,13 +19,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    tim:
+    Tim:
       name:           Tim
       site:           https://github.com/timsto
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/TFS-small.jpg
       bio:            "Hey, i´m Tim and working as an PFE @ Microsoft"
       email:          tim.stock@kerncloud.net
-      twitter:        https://twitter.com/timstock
+      twitter:        https://twitter.com/ti_stock
  
 # Defaults
 defaults:

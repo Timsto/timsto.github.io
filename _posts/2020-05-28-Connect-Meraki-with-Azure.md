@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Connect Meraki with Azure"
-author: tim
+author: Tim
 categories: [ Azure, Meraki ]
 image: assets/images/merakivpn.jpg
 tags: [featured]
