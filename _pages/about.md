@@ -2,7 +2,8 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
+image: "/assets/images/TFS.jpg"
 comments: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+Hey, my Name is Tim and im working for Microsoft as an Premiere Field Engineer! 
+My passion is Teams and Identity. Under this topic i try to automate as much as possible to help my customer and make my daily work easier. 
