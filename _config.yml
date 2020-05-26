@@ -1,5 +1,5 @@
 # Site
-name: 'azuremvp'
+name: 'azurehero'
 description: 'personal blog from Tim Stock'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -22,7 +22,7 @@ authors:
     tim:
       name:           Tim
       site:           https://github.com/timsto
-      avatar:         /assets/images/TFS-small.jpg
+      avatar:         /assets/images/avatar1.jpg
       bio:            "Hey, i´m Tim and working as an PFE @ Microsoft"
       email:          tim.stock@kerncloud.net
       twitter:        https://twitter.com/timstock
