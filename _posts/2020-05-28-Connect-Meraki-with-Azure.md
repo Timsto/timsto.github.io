@@ -48,11 +48,11 @@ Go in your "Security & SD-WAN" Settings -> Configure -> Site-to-Site-VPN
 
 ### Virtual Network Gateway
 
-## Setup
+### Setup
 
 First create a **Virtual Network Gateway** insite of your Azure portal. Search for "virtuall Network" and check Virtual Network Gateway. In the Setup provide following Information: 
 
-![Meraki VPN Setup](../content/merakivpn2.jpg)
+![Meraki VPN Setup](../content/merakivpn2.JPG)
 
     Subscription: <your-subscription>
     Name: <need to be unique>
@@ -73,7 +73,7 @@ First create a **Virtual Network Gateway** insite of your Azure portal. Search f
     After an sucessfull Review and Create, it takes up to 45min until the Gateway is completly setup. 
 
 
-## Connecton
+### Connecton
 
 ![Meraki VPN Setup](../content/merakivpn3.png)
 
