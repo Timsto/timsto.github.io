@@ -6,9 +6,10 @@ comments: false
 ---
 # Current working projects or projects i contribute to...
 
-# Microsoft 365 DSC
-
-# AzApiCall
-
-# AzDnsAsCode
+## Microsoft 365 DSC
+[https://github.com/microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
+## AzApiCall
+[https://github.com/JulianHayward/AzAPICall](https://github.com/JulianHayward/AzAPICall)
+## AzDnsAsCode
+[https://github.com/Timsto/AzDnsAsCode](https://github.com/Timsto/AzDnsAsCode)
 
