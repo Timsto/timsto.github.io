@@ -1,12 +1,13 @@
 # Site
 name: "Tim Stock"
 title: "azurehero.de"
-description: "personal blog from Tim Stock"
+description: "personal blog about Microsoft Cloud Technology"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 include: ["_pages"]
 permalink: /:title/
+google_analytics: 'G-DM2YG8EE5L'
 
 # Authors
 authors:
@@ -16,8 +17,8 @@ authors:
     description: "Microsoft Customer Engineer"
     avatar: 'assets/images/TFS_crop.jpg'
     email: tim.stock@kerncloud.net
-    twitter: https://twitter.com/wowthemesnet
-    github: https://github.com/tistock
+    twitter: https://twitter.com/ti_stock
+    github: https://github.com/Timsto
 
 # Plugins
 plugins:
