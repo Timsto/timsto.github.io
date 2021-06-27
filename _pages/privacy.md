@@ -26,6 +26,7 @@ The party responsible for this website (the “controller”) for purposes of da
 - 42287 Wuppertal
 - Germany
 - email: tim.stock@kerncloud.net
+
 ## II. The rights of users and data subjects
 With regard to the data processing to be described in more detail below, users and data subjects have the right
 
@@ -49,7 +50,7 @@ We would like to point out that this might cause user data to be processed outsi
 
 The privacy policy of Twitter can be found at
 
-https://twitter.com/privacy
+[https://twitter.com/privacy](https://twitter.com/privacy)
 
 LinkedIn
 We maintain an online presence on LinkedIn to present our company and our services and to communicate with customers/prospects. LinkedIn is a service of LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland, a subsidiary of LinkedIn Corporation, 1000 W. Maude Avenue, Sunnyvale, CA 94085, USA.
@@ -58,7 +59,7 @@ We would like to point out that this might cause user data to be processed outsi
 
 The LinkedIn privacy policy can be found here:
 
-https://www.linkedin.com/legal/privacy-policy
+[https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
 Social media links via graphics
 We also integrate the following social media sites into our website. The integration takes place via a linked graphic of the respective site. The use of these graphics stored on our own servers prevents the automatic connection to the servers of these networks for their display. Only by clicking on the corresponding graphic will you be forwarded to the service of the respective social network.
@@ -72,12 +73,12 @@ The following social networks are integrated into our site by linked graphics:
 twitter
 Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA
 
-Privacy Policy: https://twitter.com/privacy
+Privacy Policy: [https://twitter.com/privacy](https://twitter.com/privacy)
 
 LinkedIn
 LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland, a subsidiary of LinkedIn Corporation, 1000 W. Maude Avenue, Sunnyvale, CA 94085 USA.
 
-Privacy Policy: https://www.linkedin.com/legal/privacy-policy
+Privacy Policy: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
 Twitter plug-in
 Our website uses the plug-in of the Twitter social network. The Twitter service is operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA ("Twitter").
@@ -90,7 +91,7 @@ If you are logged in to Twitter while visiting one of our plugged-in websites, t
 
 Further information about the collection and use of data as well as your rights and protection options in Twitter's privacy policy found at
 
-https://twitter.com/privacy
+[https://twitter.com/privacy](https://twitter.com/privacy)
 
 FontAwesome
 In order to be able to display fonts and visual elements of our website, we use FontAwesome’s external fonts.  FontAwesome is a service of
@@ -105,7 +106,7 @@ By connecting to the FontAwesome server when you access our website, FontAwesome
 
 At
 
-https://fontawesome.com/privacy
+[https://fontawesome.com/privacy](https://fontawesome.com/privacy)
 
 FontAwesome offers further information, in particular on the options for preventing data use.
 
