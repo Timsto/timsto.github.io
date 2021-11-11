@@ -23,7 +23,7 @@ With the new Device Filter Options in Conditional Access (Still in preview (11.1
 3. Build an Conditonal Acces Policy like this:
    1. Users -> All | Exclude Emergancy Access Accounts
    2. Apps -> All
-   3. Conditions: DeviceFilters (preview) -> < device.extensionAttribute10 -ne "compliant" >
+   3. Conditions: DeviceFilters (preview) -> **device.extensionAttribute10 -ne "compliant"**
    4. Controll -> RequireMFA
 
 Then you should have a solution that helps a BUT the goal should be -> MDM sent compliant state to AzureAD like **Intune**!
