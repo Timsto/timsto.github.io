@@ -3,7 +3,7 @@ layout: post
 title:  "Your MDM is not compliant state ready"
 author: tim
 categories: [ AzureAD, Intune, ConditionalAccess, Quick]
-image: assets/images/collectingSingInsagainstAzureAD\thumbnail.jpg
+image: assets/images/customattributesDevices.jpg
 description: "Using Custom Attributes for Devices to build your compliant State if your MDM is not ready"
 featured: true
 hidden: false
