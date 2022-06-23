@@ -11,10 +11,11 @@ hidden: false
 
 # The different Connection Methods
 
-! Please remender that some Method will not work because of MFA interactions. 
+! Please remember that some Method will not work because of MFA interactions.
 
 ! Tested with Posh 5 and Posh 7
 
+---
 ## Connect-AzAccount
 
 ### Connection via UserName + Password
@@ -44,8 +45,8 @@ $ApplicationId = '00000000-0000-0000-0000-00000000'
 Connect-AzAccount -CertificateThumbprint $Thumbprint -ApplicationId $ApplicationId -Tenant $TenantId -ServicePrincipal
 ```
 
+---
 ## Connect-AzureAD
-
 
 ### Connection via UserName + Password
 
@@ -75,10 +76,11 @@ $ApplicationId = '00000000-0000-0000-0000-00000000'
 Connect-AzureAD -CertificateThumbprint $Thumbprint -ApplicationId $ApplicationId -Tenantid $TenantId
 ```
 
+---
 ## Connect-MgGraph
 
 ### Connection via UserName + Password
-Connect-MGGraph didnt provide a programmable way to insert Credentials, its needable to fetch an AccessToken via Connect-AzAccount 
+Connect-MGGraph didnt provide a programmable way to insert Credentials, its needable to fetch an AccessToken via Connect-AzAccount
 ``` powershell
 $User = "marta.musterfrau@contoso.com"
 $PWord = ConvertTo-SecureString -String "v3ry5tr0n9P@sSwOrd" -AsPlainText -Force
@@ -128,8 +130,12 @@ $ApplicationId = '00000000-0000-0000-0000-00000000'
 Connect-MgGraph -ClientID $ApplicationId -TenantId $TenantId -CertificateThumbprint $Thumbprint
 ```
 
+---
+
 ## RestfullApi (Graph + Azure)
+
 as an Example connecting to Graph an GET my profile information!
+
 ### Connection via UserName + Password
 
 ``` powershell
@@ -167,7 +173,9 @@ $connection = Invoke-RestMethod `
 $AccessToken = $connection.access_token
 
 $meProfile = Invoke-RestMethod -Headers @{Authorization = "Bearer $AccessToken"} -Uri $apiUrl -Method Get
+
 ```
+
 ### Connection via Service Principal + Certificate Thumbprint
 
 ``` powershell
