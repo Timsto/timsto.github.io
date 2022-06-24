@@ -17,10 +17,10 @@ hidden: false
 
 # Table of Contents
 
-1. [Connect-AzAccount](#Connect-AzAccount)
-2. [Connect-AzureAD](#Connect-AzureAD)
-3. [Connect-MgGraph](#Connect-MgGraph)
-4. [RestfullApi (Graph + Azure)](#RestfullApi (Graph + Azure))
+1. Connect-AzAccount
+2. Connect-AzureAD
+3. Connect-MgGraph
+4. RestfullApi (Graph + Azure)
 
 ## Connect-AzAccount
 
