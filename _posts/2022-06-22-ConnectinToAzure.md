@@ -11,11 +11,17 @@ hidden: false
 
 # The different Connection Methods
 
-! Please remember that some Method will not work because of MFA interactions.
+> **_Warning:_** Please remember that some Method will not work because of MFA interactions.
 
-! Tested with Posh 5 and Posh 7
+> **_Tested:_**   Posh 5 and Posh 7
 
----
+# Table of Contents
+
+1. [Connect-AzAccount](#Connect-AzAccount)
+2. [Connect-AzureAD](#Connect-AzureAD)
+3. [Connect-MgGraph](#Connect-MgGraph)
+4. [RestfullApi (Graph + Azure)](#RestfullApi (Graph + Azure))
+
 ## Connect-AzAccount
 
 ### Connection via UserName + Password
