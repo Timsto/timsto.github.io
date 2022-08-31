@@ -25,19 +25,19 @@ Use role-assignable groups and PIM for groups.  By that there is a way to addres
 
 1. Create a Role-assignable group
 
-![NewGroup](/assets/images/UsingPIMoutsideofAzureAD/newgroup.png)
+    ![NewGroup](/assets/images/UsingPIMoutsideofAzureAD/newgroup.png)
 
 2. Assign this group in Exchange or Intune to the specific Role
 
-![RoleAssignment](/assets/images/UsingPIMoutsideofAzureAD/roleassignment.png)
+    ![RoleAssignment](/assets/images/UsingPIMoutsideofAzureAD/roleassignment.png)
 
 3. Enable PIM
 
-![EnablePIM](/assets/images/UsingPIMoutsideofAzureAD/enablepim.png)
+    ![EnablePIM](/assets/images/UsingPIMoutsideofAzureAD/enablepim.png)
 
 4. Create PIM Privileged access groups (preview) Config
 
-![PIMConfig](/assets/images/UsingPIMoutsideofAzureAD/pimnconfig.png)
+    ![PIMConfig](/assets/images/UsingPIMoutsideofAzureAD/pimnconfig.png)
 
 Done.
 
@@ -51,4 +51,4 @@ Done.
 
 - PAG are protected for Roles like "Group Administrator"
 
-- Analyze the audit logs if there is an direct assignment for the new protected Roles 
+- Analyze the audit logs if there is an direct assignment for the new protected Roles
