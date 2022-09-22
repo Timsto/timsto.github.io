@@ -47,6 +47,6 @@ Yes there are some security benefits not to fall back to software token and usin
 
     ![EnterOTP](/assets/images/using1passwordasMFAMethod/enterotp.png)
 
-13. If its accepted, your done!
+13. If its accepted, your finished!
 
 If you like it, it would be great if you can share it or if you have any question ping me on [Twitter](https://twitter.com/ti_stock)
