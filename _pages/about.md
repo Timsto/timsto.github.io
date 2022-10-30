@@ -30,9 +30,12 @@ To get an otherview on that i currently work, jump over to [Projects](/projects)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)][kofi]
+
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fti_stock&screen_name=ti_stock
 [linkedin]: https://www.linkedin.com/in/tim-stock/
 [github]: https://github.com/Timsto
+[kofi]: https://ko-fi.com/timstock
 
 ## Certifications
 
