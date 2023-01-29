@@ -5,7 +5,7 @@ author: tim
 categories: [ AzureAD, Security, Powershell, Github, Quick]
 image: assets/images/myfavidentityrepos\thumbnail.jpg
 description: "List of Code Repositories for Identity & Security Topics"
-featured: true
+featured: false
 hidden: false
 ---
 
