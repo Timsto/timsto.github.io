@@ -69,8 +69,13 @@ Connect-AzureAD -Credentials $Credentials
 $ApplicationId = '00000000-0000-0000-0000-00000000'
 $ClientSecret = 'SuperStrongSecret'
 $TenantId = 'yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyy'
-$creds = [System.Management.Automation.PSCredential]::new($ApplicationId, (ConvertTo-SecureString $ClientSecret -AsPlainText -Force))
-Connect-AzAccount -Tenant $TenantId -Subscription $SubscriptionId -Credential $creds -ServicePrincipal
+
+$azurePassword = ConvertTo-SecureString $ClientSecret -AsPlainText -Force
+$psCred = New-Object System.Management.Automation.PSCredential($ApplicationID , $ClientSecret)
+Connect-AzAccount -Credential $psCred -TenantId $TenantId -ServicePrincipal
+$context = [Microsoft.Azure.Commands.Common.Authentication.Abstractions.AzureRmProfileProvider]::Instance.Profile.DefaultContext
+$aadToken = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id.ToString(), $null, [Microsoft.Azure.Commands.Common.Authentication.ShowDialog]::Never, $null, "https://graph.windows.net").AccessToken
+Connect-AzureAD -AadAccessToken $aadToken -AccountId $context.Account.Id -TenantId $context.tenant.id
 ```
 
 ### Connection via Service Principal + Certificate Thumbprint
