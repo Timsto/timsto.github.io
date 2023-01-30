@@ -3,7 +3,7 @@ layout: post
 title:  "10 böse Tenant Settings"
 author: tim
 categories: [ Entra, AzureAD, PIM, Intune, Exchange, Teams, Deutsch]
-image: assets/images/TenDefaultTenantSettingsToChange\thumbnail.jpg
+image: assets/images/TenDefaultTenantSettingsToChange\thumbnail.png
 description: "Einstellungen welche nach der Erstellung einen Tenants geändert werden sollten!"
 featured: true
 hidden: false
