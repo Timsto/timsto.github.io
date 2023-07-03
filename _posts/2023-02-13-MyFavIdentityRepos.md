@@ -11,17 +11,17 @@ hidden: false
 
 # Identity
 
-<https://github.com/AzureAD/IdentityProtectionTools>
+[Github: Identity Protection Tools](<https://github.com/AzureAD/IdentityProtectionTools>)
 
-<https://github.com/JefTek/AzureADSamples>
+[Github: AzureADSamples](<https://github.com/JefTek/AzureADSamples>)
 
-<https://github.com/microsoft/AzureADToolkit>
+[Github: AzureADToolKit](<https://github.com/microsoft/AzureADToolkit>)
 
-<http://aka.ms/AADDataMap>
+[AADDataMap](<http://aka.ms/AADDataMap>)
 
-<https://github.com/JulianHayward/AzADServicePrincipalInsights>
+[Github: AzADServicePrincipalsInsights](<https://github.com/JulianHayward/AzADServicePrincipalInsights>)
 
-<https://www.youtube.com/@markgrimes3245>
+[Youtube: Mark Grimmes](<https://www.youtube.com/@markgrimes3245>)
 
 [Azure Active Directory Core Store: Data centers](https://www.youtube.com/watch?v=O8ZPjSxNte0)
 
@@ -36,4 +36,3 @@ hidden: false
 # Security
 
 [Strike Community](https://strikecommunity.azurewebsites.net/index.html)
-
