@@ -3,7 +3,7 @@ layout: post
 title:  "A modern Zero Trust implementation"
 author: tim
 categories: [ AzureAD, Security, Zero Trust]
-image: assets/images/myfavidentityrepos\thumbnail.jpg
+image: assets/images/modernZeroTrustSzenarios\thumbnail.jpg
 description: "some emample Szenarios for a modern Zero Trust implementation"
 featured: true
 hidden: false
