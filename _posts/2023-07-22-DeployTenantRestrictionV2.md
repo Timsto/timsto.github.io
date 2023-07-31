@@ -3,7 +3,7 @@ layout: post
 title:  "Deploy Tenant Restriction V2"
 author: tim
 categories: [ AzureAD, Security, Intune, Quick]
-image: assets/images/DeployTenantRestrictionV2\thumbnail.jpg
+image: assets/images/DeployTenantRestrictionV2\thumbnail.png
 description: "Deploy Tenant Restriction V2 with Intune"
 featured: false
 hidden: false

@@ -9,7 +9,7 @@ featured: true
 hidden: false
 ---
 
-# A farm Welcome to Global Secure Access
+# A warm Welcome to Global Secure Access
 
 For me this will be a GameChanger for the next view years!
 
