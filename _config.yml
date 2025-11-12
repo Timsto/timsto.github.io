@@ -1,7 +1,7 @@
 # Site
 name: "Tim Wolf (former Stock)"
 title: "azurehero.de"
-description: "personal blog about Microsoft Cloud Technology"
+description: "personal blog about Entra ID and Security"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''

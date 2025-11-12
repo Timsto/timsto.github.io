@@ -12,4 +12,5 @@ comments: false
 [https://github.com/JulianHayward/AzAPICall](https://github.com/JulianHayward/AzAPICall)
 ## AzDnsAsCode
 [https://github.com/Timsto/AzDnsAsCode](https://github.com/Timsto/AzDnsAsCode)
-
+## CloudXray 
+a Tool to backup all relationships in Entra ID and other Services that rely on EID. 
