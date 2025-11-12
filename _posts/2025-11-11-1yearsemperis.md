@@ -54,7 +54,7 @@ Following some impression from the events:
 
 ![wpninjagift](/assets/images/1yearsemperis/wpninjagift.jpg)
 
-![WPNinja Summit Aftermovie](https://www.youtube.com/watch?v=j3ClCCe52qA)
+[WPNinja Summit Aftermovie](https://www.youtube.com/watch?v=j3ClCCe52qA)
 
 ## Techorama
 
@@ -68,7 +68,7 @@ Following some impression from the events:
 
 ![ELAT](/assets/images/1yearsemperis/ELAT.jpg)
 
-![WPNinjaNL](/assets/images/1yearsemperis/WPNinjaNL.jpg)
+![WPNinjaNL](/assets/images/1yearsemperis/WPNinjaNL.jpeg)
 
 ## What´s next?
 Driving the Identity Resiliancy topic forward together with customers, community and my colleagues.
