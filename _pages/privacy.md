@@ -22,10 +22,10 @@ III. Information about the data processing
 
 The party responsible for this website (the “controller”) for purposes of data protection law is:
 
-- Tim Stock
+- Tim wolf
 - 42287 Wuppertal
 - Germany
-- email: tim.stock@kerncloud.net
+- email: tim.wolf@kerncloud.net
 
 ## II. The rights of users and data subjects
 With regard to the data processing to be described in more detail below, users and data subjects have the right

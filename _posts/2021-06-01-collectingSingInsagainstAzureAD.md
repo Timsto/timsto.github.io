@@ -5,7 +5,7 @@ author: tim
 categories: [ AzureAD, SignInLogs]
 image: assets/images/collectingSingInsagainstAzureAD\thumbnail.jpg
 description: "How to collect SignIns against Azure Active Directory"
-featured: true
+featured: false
 hidden: false
 ---
 In this post i wanna give you an overview how you can collect SignIn Information against Azure Active Directory. 

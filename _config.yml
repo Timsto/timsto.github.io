@@ -1,5 +1,5 @@
 # Site
-name: "Tim Stock"
+name: "Tim Wolf (fromer Stock)"
 title: "azurehero.de"
 description: "personal blog about Microsoft Cloud Technology"
 logo: 'assets/images/logo.png'
@@ -16,7 +16,7 @@ authors:
     display_name: Tim
     description: "Semperis Senior Solution Architect"
     avatar: 'assets/images/TFS_crop.jpg'
-    email: tim.stock@kerncloud.net
+    email: tim.wolf@kerncloud.net
     twitter: https://twitter.com/ti_stock
     github: https://github.com/Timsto
 

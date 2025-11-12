@@ -5,7 +5,7 @@ author: tim
 categories: [ AzureAD, Intune, ConditionalAccess, Quick]
 image: assets/images/customattributesDevices\thumbnail.png
 description: "Using Custom Attributes for Devices to build your compliant State if your MDM is not ready"
-featured: true
+featured: false
 hidden: false
 ---
 

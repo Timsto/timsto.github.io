@@ -5,7 +5,7 @@ author: tim
 categories: [ AzureAD, PIM, Intune, Exchange, Quick]
 image: assets/images/UsingPIMoutsideofAzureAD\thumbnail.jpg
 description: "Building a Workaround to use Azure Privileged Identity Management for Role outside of AzureAD Role System"
-featured: true
+featured: false
 hidden: false
 ---
 
