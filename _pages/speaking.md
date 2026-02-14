@@ -9,6 +9,7 @@ My Sessions
 
 | **Date**   | **Event**            | **Session Title**                                                  | **Content** |
 |------------|----------------------|--------------------------------------------------------------------|-------------|
+| 2026-02-15 | Hybrid Identity Protection Europe 2026 | Hybrid Identity Protection Europe 2026 | [Slides](https://github.com/Timsto/speaker) |
 | 2025-12-17 | ExpertsLive Cafe | XXX | Slides following |
 | 2025-12-10 | Entra Meetup Germany | XXX | Slides following |
 | 2025-11-21 | GRC Summit Leipzig | Digitale Souveränität - Ein Vergleich der Anbieter | Slides following |
