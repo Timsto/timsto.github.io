@@ -33,6 +33,7 @@ hidden: false
 
 [Modern Auth Protocols ](https://auth0.com/docs/videos/learn-identity-series/introduction-to-identity)
 
+[Cloud Architect] (https://www.cloud-architekt.net/links)
 # Security
 
 [Strike Community](https://strikecommunity.azurewebsites.net/index.html)
